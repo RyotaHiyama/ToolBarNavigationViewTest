@@ -1,0 +1,2 @@
+# ToolBarTest
+ToolBarに検索機能をつけたかったときにToolBarの使い方を勉強したときのやつ．そのままサンプルコードとして使えるかも．Kotlin．
